@@ -1,4 +1,4 @@
-### Hi.
+![Hi](https://github.com/LenaSchnedlitz/LenaSchnedlitz/blob/master/svg/header.svg)
 
 
 [![Homepage](https://github.com/LenaSchnedlitz/LenaSchnedlitz/blob/master/svg/homepage.svg)](https://www.lenaschnedlitz.me)
