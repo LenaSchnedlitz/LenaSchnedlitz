@@ -1,6 +1,5 @@
-
 <p align="center">
-<img src="https://github.com/LenaSchnedlitz/LenaSchnedlitz/blob/master/svg/header.svg" alt="Hi, I'm Lena.">
+<a href="https://github.com/LenaSchnedlitz/LenaSchnedlitz"><img src="https://github.com/LenaSchnedlitz/LenaSchnedlitz/blob/master/svg/header.svg" alt="Hi, I'm Lena."></a>
 </p>
 
 <p align="center">
