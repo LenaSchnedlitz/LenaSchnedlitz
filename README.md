@@ -1,4 +1,7 @@
+
+<p align="center">
 <img src="https://github.com/LenaSchnedlitz/LenaSchnedlitz/blob/master/svg/header.svg" alt="Hi, I'm Lena.">
+</p>
 
 <p align="center">
 <a href="https://www.lenaschnedlitz.me"><img src="https://github.com/LenaSchnedlitz/LenaSchnedlitz/blob/master/svg/homepage.svg" alt="Homepage"></a>
