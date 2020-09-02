@@ -4,4 +4,9 @@ Feather Icons:
 https://github.com/feathericons/feather/blob/master/LICENSE
 
 ======================================================================
+-- OTHER -------------------------------------------------------------
+Animation:
+https://maxwellito.github.io/vivus/
+
+======================================================================
 
